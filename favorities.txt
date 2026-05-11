@@ -2,6 +2,7 @@ Paczek
 Sernik
 Lody
 Zupy
-
-gokul@Gokul MINGW64 ~/Desktop/favoities (main)
-
+Movie1
+Movie2
+Movie3
+Movie4
