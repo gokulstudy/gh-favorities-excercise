@@ -1,3 +1,7 @@
+Paczek
+Sernik
+Lody
+Zupy
 Movie1
 Movie2
 Movie3
